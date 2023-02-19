@@ -1,6 +1,6 @@
-package ru.netology.Pages;
+package ru.netology.pages;
 
-import ru.netology.DataHelper.DataHelper;
+import ru.netology.dataHelper.DataHelper;
 import org.openqa.selenium.Keys;
 
 import java.time.Duration;

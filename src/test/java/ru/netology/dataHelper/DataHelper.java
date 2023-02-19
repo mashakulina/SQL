@@ -1,4 +1,4 @@
-package ru.netology.DataHelper;
+package ru.netology.dataHelper;
 
 import com.github.javafaker.Faker;
 import lombok.SneakyThrows;

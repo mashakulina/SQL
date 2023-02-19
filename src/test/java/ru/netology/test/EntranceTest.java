@@ -1,8 +1,8 @@
-package ru.netology.Test;
+package ru.netology.test;
 
 import org.junit.jupiter.api.*;
-import ru.netology.DataHelper.DataHelper;
-import ru.netology.Pages.LoginPage;
+import ru.netology.dataHelper.DataHelper;
+import ru.netology.pages.LoginPage;
 
 import static com.codeborne.selenide.Selenide.*;
 
